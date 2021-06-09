@@ -36,6 +36,8 @@ Looking for a challenging career that demands the best of my professional abilit
     </p>
   --->
   
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+  
 [![Akanksha's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats) 
