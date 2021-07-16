@@ -12,7 +12,6 @@
   <li>I always seek to broaden and enhance my skillset . </br>
 Looking for a challenging career that demands the best of my professional ability in terms of technical skills.</li>
   <li>I’m looking to collaborate on a project that matches my interests of application development and playing around with data.</li>
-   <li> How to reach me - <a href="https://www.linkedin.com/in/akanksha-tanu-6241301b1/">LinkedIn</a> : <a href="akankshatanu.at@gmail.com">Gmail</a></li>
 </ul>
 
 </p>
@@ -44,7 +43,17 @@ Looking for a challenging career that demands the best of my professional abilit
 
 <!-- [![Akanksha's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)   -->
 
-![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=light)
+![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=light&hide_border=true)
+
+
+------------------
+### Let's connect for better reach ✌
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/akanksha_tanu/
+[linkedin]: https://www.linkedin.com/in/akankshatanu/
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)  -->
 
