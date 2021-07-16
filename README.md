@@ -44,7 +44,7 @@ Looking for a challenging career that demands the best of my professional abilit
 
 <!-- [![Akanksha's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)   -->
 
-![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=dark)
+![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=light)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)  -->
 
