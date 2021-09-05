@@ -8,7 +8,7 @@
 <ul>
   <li>👋 I’m @akanksha-tanu</li>
   <li>Undergraduate student pursuing B.E. degree with a profound interest in designing and developing web and android applications. </li>
-  <li>Currently exploring the field of data science and machine learning using python.</li>
+  <li>Currently exploring the field of data science using python.</li>
   <li>Good performance in competitive coding and problem-solving.</li>
   <li>I always seek to broaden and enhance my skillset . </br>
 Looking for a challenging career that demands the best of my professional ability in terms of technical skills.</li>
