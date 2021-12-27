@@ -1,6 +1,6 @@
 
 
-# Hey There!! 🙋🏻‍♀️
+# Hey There!
 ----------
 <div>
 <img align = "right"  width = "350"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
