@@ -19,7 +19,7 @@ Looking for a challenging career that demands the best of my professional abilit
 
 </div>
 
-
+<!--
 # Languages and tools
 👸 Languages and Tools:<p align="center"></p>
       <p align="center">
@@ -36,7 +36,7 @@ Looking for a challenging career that demands the best of my professional abilit
         <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" width="50"/>        
       </p>
     </p>
-
+-->
   
 <!-- ### NOTE : -->
 
