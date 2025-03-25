@@ -1,23 +1,23 @@
+# Hey there! This is Akanksha 👋
+
+### Cloud Engineer @ AWS
+Passionate about transforming ideas into automated cloud solutions. 
+Building infrastructure that scales, automating the mundane, and solving complex problems.
+
+### What Drives Me
+- 🚀 Turning manual processes into automated workflows
+- ☁️ Architecting cloud-native solutions
+- 🔄 Continuous learning and improvement
 
 
-# Hey There!
-----------
-<div>
-<img align = "right"  width = "350"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
-<p align="left"> 
-<ul>
-  <li>👋 I’m @akanksha-tanu</li>
-  <li>B.E. Graduate with a profound interest in designing and developing web and android applications. </li>
-  <li>Currently exploring the field of data science using python.</li>
-  <li>Good performance in competitive coding and problem-solving.</li>
-  <li>I always seek to broaden and enhance my skillset . </br>
-Looking for a challenging career that demands the best of my professional ability in terms of technical skills.</li>
-  <li>I’m looking to collaborate on a project that matches my interests of application development and playing around with data.</li>
-</ul>
+### Connect
+[LinkedIn](https://www.linkedin.com/in/akankshatanu/) • 
+[Insta](https://www.instagram.com/akanksha_tanu/) • 
+[Email](mailto:akatanu99@gmail.com)
 
-</p>
+---
+Let's collaborate on making the cloud work smarter, not harder 💡
 
-</div>
 
 <!--
 # Languages and tools
@@ -46,9 +46,9 @@ Looking for a challenging career that demands the best of my professional abilit
 ----------------
 
 
-![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=light&hide_border=true)
+<!--![Akanksha's Github stats](https://github-readme-stats.vercel.app/api?username=akanksha-tanu&count_private=true&show_icons=true&theme=light&hide_border=true)-->
 
-
+<!--
 ------------------
 ### Let's connect for better reach ✌
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -57,6 +57,8 @@ Looking for a challenging career that demands the best of my professional abilit
 
 [instagram]: https://www.instagram.com/akanksha_tanu/
 [linkedin]: https://www.linkedin.com/in/akankshatanu/
+
+-->
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-tanu)](https://github.com/akanksha-tanu/github-readme-stats)  -->
 
