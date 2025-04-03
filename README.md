@@ -1,12 +1,11 @@
 # Hey there! This is Akanksha 👋
 
 ### Cloud Engineer @ AWS
-Passionate about transforming ideas into automated cloud solutions. 
-Building infrastructure that scales, automating the mundane, and solving complex problems.
+Passionate about transforming ideas into automated cloud solutions, building infrastructure that scales, automating the mundane, and solving complex problems.
 
 ### What Drives Me
 - 🚀 Turning manual processes into automated workflows
-- ☁️ Architecting cloud-native solutions
+- ☁️ Architecting cloud-native/serverless solutions
 - 🔄 Continuous learning and improvement
 
 
